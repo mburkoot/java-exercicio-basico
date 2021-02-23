@@ -1,2 +1,2 @@
 # java-exercicio-basico
-Exercícios básicos em JAVA.
+Exercícios básicos em JAVA!
